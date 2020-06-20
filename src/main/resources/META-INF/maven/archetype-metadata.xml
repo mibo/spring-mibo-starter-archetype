@@ -13,16 +13,16 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <requiredProperties>
     <requiredProperty key="groupId">
-      <defaultValue>org.apache.olingo</defaultValue>
+      <defaultValue>com.github.mibo</defaultValue>
     </requiredProperty>
     <requiredProperty key="artifactId">
-      <defaultValue>cars-annotations-sample</defaultValue>
+      <defaultValue>spring-mibo-starter</defaultValue>
     </requiredProperty>
     <requiredProperty key="version">
-      <defaultValue>1.0.0-SNAPSHOT</defaultValue>
+      <defaultValue>0.1.0-SNAPSHOT</defaultValue>
     </requiredProperty>
     <requiredProperty key="package">
-      <defaultValue>org.apache.olingo.sample.annotation</defaultValue>
+      <defaultValue>com.github.mibo.sample.spring</defaultValue>
     </requiredProperty>
   </requiredProperties>
   <fileSets>
